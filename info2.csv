@@ -1,0 +1,17 @@
+﻿Gender;Gender;2
+Age ;Age ;num
+Height;Height;num
+Weight;Weight;num
+family_history_with_overweight;family_history_with_overweight;2
+FAVC;Consumo de alimentos altos en calorías;2
+FCVC;Consumo de verduras;3
+NCP;Comidas principales/día;3
+CAEC;alimentos entre comidas;4
+SMOKE;SMOKE;2
+CH2O;Comsumo de agua/litros;3
+SCC;Control de calorías?;2
+FAF;frecuecia de actividad física;4
+TUE;tiempo rango de horas usando tecnología sedentaria;3
+CALC;Frecuencia consumo de alcohol;4
+MTRANS;tipo de transporte utilizado;5
+NObeyesdad;variable categorica de  Weight;7
